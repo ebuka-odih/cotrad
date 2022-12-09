@@ -9,7 +9,7 @@
                         <div class="text_box">
                             <h2>Indices</h2>
                             <h3>Trade the World’s Most Liquid Stock Exchange
-                                Indices CFDs with Whale Corp Today
+                                Indices CFDs with Cotrad Today
                             </h3>
                             <a href="register" class="red_arrow_button">open live account</a>
                         </div>
@@ -21,15 +21,15 @@
             <div class="inner">
                 <div class="page_top_text">
                     <h2><strong>Indices</strong> Trading</h2>
-                    <p>Gain instant access to the world&#8217;s most liquid Stock Exchange indices through your MT4 and MT5 trading platforms. Linked to our oneZero™ MT4 Bridge, Whale Corp provides the fastest execution speed due to our unparalleled access to the deepest liquidity available. Offering traders truly transparent pricing, the prices of all Whale Corp Indices are based on the underlying price of the index’s corresponding stock market.</p>
+                    <p>Gain instant access to the world&#8217;s most liquid Stock Exchange indices through your MT4 and MT5 trading platforms. Linked to our oneZero™ MT4 Bridge, Cotrad provides the fastest execution speed due to our unparalleled access to the deepest liquidity available. Offering traders truly transparent pricing, the prices of all Cotrad Indices are based on the underlying price of the index’s corresponding stock market.</p>
                     <div class="clear"></div>
                 </div>
                 <div class="pages_text_and_image_row text_and_image_position_right">
                     <div class="text_and_image_inner">
                         <div class="text_box">
                             <h3>Trade the most liquid global Stock Indices CFDs</h3>
-                            <p>Whale Corp provides forex traders access to the most liquid stock exchange Indices from across the globe, including the S&amp;P 500, DAX, FTSE, DJ30 and more.</p>
-                            <p>Designed for institutional traders, Whale Corp index CFDs can be enjoyed by all clients with no commissions, transparent prices, and ultra-sharp spreads.</p>
+                            <p>Cotrad provides forex traders access to the most liquid stock exchange Indices from across the globe, including the S&amp;P 500, DAX, FTSE, DJ30 and more.</p>
+                            <p>Designed for institutional traders, Cotrad index CFDs can be enjoyed by all clients with no commissions, transparent prices, and ultra-sharp spreads.</p>
                             <div class="bottom_text">
                                 <p>access</p>
                                 <p><strong>15</strong></p>
@@ -48,9 +48,9 @@
                 <div class="pages_text_and_image_row text_and_image_position_left">
                     <div class="text_and_image_inner">
                         <div class="text_box">
-                            <h3>The Whale Corp Fibre Optic Network offers the fastest Index execution speed</h3>
+                            <h3>The Cotrad Fibre Optic Network offers the fastest Index execution speed</h3>
                             <p>In order to gain an edge in the indices market, traders need access to the fastest execution speeds available. </p>
-                            <p>The Whale Corp fibre optic network, with our oneZero™ MT4 Bridge does just that, providing all Whale Corp Indices traders with the quickest execution speeds available.</p>
+                            <p>The Cotrad fibre optic network, with our oneZero™ MT4 Bridge does just that, providing all Cotrad Indices traders with the quickest execution speeds available.</p>
                             <div class="bottom_text">
                                 <p>up to</p>
                                 <p><strong>200:1</strong></p>
@@ -179,7 +179,7 @@
                     <div class="text_and_image_inner">
                         <div class="text_box">
                             <h3>All Stock Indices are available through the powerful MetaTrader 4 and MetaTrader 5 Platforms</h3>
-                            <p>Whale Corp allows you to trade stock market Indices on both MT4 and MT5, the world&#8217;s most popular FX trading platforms. At Whale Corp, all indices trading styles are welcome, including scalping, hedging, swing trading and the use of any Expert Advisor (EA) that suits your trading style.</p>
+                            <p>Cotrad allows you to trade stock market Indices on both MT4 and MT5, the world&#8217;s most popular FX trading platforms. At Cotrad, all indices trading styles are welcome, including scalping, hedging, swing trading and the use of any Expert Advisor (EA) that suits your trading style.</p>
                             <div class="bottom_text">
                                 <p>up to</p>
                                 <p><strong>9</strong></p>

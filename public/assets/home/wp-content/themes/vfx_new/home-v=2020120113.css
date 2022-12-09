@@ -32,8 +32,8 @@
 .home_forex_broker_list h4{ font-size:15px; font-weight:normal; margin:0px; padding:0px; line-height:1.2; color:#000;}
 .home_forex_broker_list .home_forex_broker_item{ width:150px; display:inline-block; padding:0px 5px 20px; vertical-align:top;}
 .home_forex_broker_list .home_forex_broker_item .home_forex_broker_item_box{ width:106px; height:102px; margin:0px auto;}
-.home_forex_broker_list .home_forex_broker_item .home_forex_broker_item_box .home_forex_broker_item_img{ height:86px;width: 86px; background:#214cd2; cursor:pointer; border-radius: 20px;margin: 0 auto; line-height:86px; text-align: center; position:relative;}
-.home_forex_broker_list .home_forex_broker_item .home_forex_broker_item_box .home_forex_broker_item_img:hover{ line-height:94px; height:94px; width:94px;background: #1047fb;}
+.home_forex_broker_list .home_forex_broker_item .home_forex_broker_item_box .home_forex_broker_item_img{ height:86px;width: 86px; background:#750707; cursor:pointer; border-radius: 20px;margin: 0 auto; line-height:86px; text-align: center; position:relative;}
+.home_forex_broker_list .home_forex_broker_item .home_forex_broker_item_box .home_forex_broker_item_img:hover{ line-height:94px; height:94px; width:94px;background: #750707;}
 .home_forex_broker_list .home_forex_broker_item .home_forex_broker_item_box .home_forex_broker_item_img:after{ content:""; display:block; width:81px; height:20px; background:url("images/home_sprite_img.png") -525px 0px no-repeat; position:absolute; left:50%; margin-left:-40px; top:calc(100% + 1px);}
 .home_forex_broker_list .home_forex_broker_item_img span{ display: inline-block; vertical-align:middle; width:86px; height:86px;}
 .home_forex_broker_list .home_forex_broker_item_img span.home_forex_broker_icon1{ background:url("images/home_sprite_img.png") 0px 0px no-repeat;}
@@ -85,7 +85,7 @@
 	.home_row2 .text_box{ float:none; width:100%; padding-bottom:30px;}
 	.home_row2 .img_box{ width:423px; margin:0px auto; max-width:100%; float:none; position:static; padding-bottom:50px;}
 }
-@media (max-width:900px){	
+@media (max-width:900px){
 	.home_row7_left{ left:20px;}
 	.home_row7 .inner{ padding-left:350px;}
 	.home_row6 .inner{ padding-bottom:60px;}
@@ -176,7 +176,7 @@
 .white_back{background-color: #ffffff;}
 .gray_back{background-color: #f7f7f7;}
 .red_back{background: #e91d2c;}
-.blue_back{background-color: #214cd2;}
+.blue_back{background-color: ##750707;}
 .home_row5 .tab_item table{width: 100%;}
 .home_row5 .tab_item table tr td:first-child{width: 12%;text-align: center;}
 .home_row5 .tab_item table .row5_tbody_top td{font-weight: bold;font-size: 16px;padding: 22px 5px;}
@@ -184,7 +184,7 @@
 .home_row5 .tab_item table .row5_tbody_buttom td{width: 100% !important;text-align: right !important;padding: 0;}
 .home_row5 .tab_item table tr td.bid_text,.home_row5 .tab_item table tr td.ask_text{font-size: 15px;position: relative;}
 .home_row5 .tab_item table tr td.bid_text span,.home_row5 .tab_item table tr td.ask_text span{ font-size: 12px; position: absolute; top: 16px; transform: scale(0.8); -webkit-transform: scale(0.8); -moz-transform: scale(0.8); -ms-transform: scale(0.8); -o-transform: scale(0.8); }
-.home_row5 .tab_item table tr td.spr_text span{background:#214cd2;display:inline-block;color: #fff;font-size: 17px;font-weight: bold;padding: 5px 10px;border-radius: 4px;}
+.home_row5 .tab_item table tr td.spr_text span{background:##750707;display:inline-block;color: #fff;font-size: 17px;font-weight: bold;padding: 5px 10px;border-radius: 4px;}
 .home_row5 .tab_item table tr td.spr_text span.red{background:#e91d2c;}
 .home_row5 .home_row5_top .tab_list{min-height:317px;background-color:#fff;position:relative;}
 .home_row5 .home_row5_top .tab_item{display:none;}

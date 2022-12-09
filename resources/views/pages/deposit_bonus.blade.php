@@ -66,7 +66,7 @@
         <div class="inner">
             <div class="page_top_text">
                 <h2><strong>CLAIM UP TO 50%</strong> WELCOME BONUS!</h2>
-                <p>Want 50% more trading power? Then opt-in to the Whale Corp 50% bonus. Tailored exclusively for Whale Corp accounts, all have to do is make a deposit of up to $500, and we will give you an extra 50% bonus equity to trade with. Plus, for every standard lot that you trade, we will convert 2 units of your bonus into real cash that you can withdraw at any time!</p>
+                <p>Want 50% more trading power? Then opt-in to the Cotrad 50% bonus. Tailored exclusively for Cotrad accounts, all have to do is make a deposit of up to $500, and we will give you an extra 50% bonus equity to trade with. Plus, for every standard lot that you trade, we will convert 2 units of your bonus into real cash that you can withdraw at any time!</p>
                 <div class="clear"></div>
             </div>
         </div>
@@ -123,7 +123,7 @@
                         <div class="text_box blue_text_box">
                             <div class="text_box_inner">
                                 <h3>Claim your Bonus<span>2</span></h3>
-                                <p>Opt in to the Whale Corp Welcome Bonus Promotion</p>
+                                <p>Opt in to the Cotrad Welcome Bonus Promotion</p>
                                 <a href="register" class="red_button">Get Started</a>
                             </div>
                         </div>

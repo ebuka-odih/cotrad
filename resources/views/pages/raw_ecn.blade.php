@@ -19,17 +19,17 @@
     <div class="page_content">
         <div class="inner">
             <div class="page_top_text">
-                <h2><strong>Whale Corp</strong> RAW ECN Account</h2>
-                <p>Institutional grade liquidity from the world’s largest institutions, direct to you.  Whale Corp has introduced the next generation RAW ECN trading environment which gives you the most cost-effective Forex trading solution available across the Forex trading industry. You’ll have the opportunity to trade Forex on institutional grade liquidity direct from the world’s largest banks and institutions with no spread mark-up, just a small $3.00 commission.</p>
+                <h2><strong>Cotrad</strong> RAW ECN Account</h2>
+                <p>Institutional grade liquidity from the world’s largest institutions, direct to you.  Cotrad has introduced the next generation RAW ECN trading environment which gives you the most cost-effective Forex trading solution available across the Forex trading industry. You’ll have the opportunity to trade Forex on institutional grade liquidity direct from the world’s largest banks and institutions with no spread mark-up, just a small $3.00 commission.</p>
                 <div class="clear"></div>
             </div>
             <div class="pages_text_and_image_row text_and_image_position_right">
                 <div class="text_and_image_inner">
                     <div class="text_box">
                         <h3>Lowest ECN Based Account Commissions</h3>
-                        <p>We have linked the highest grade, prime FX liquidity in the Whale Corp RAW ECN Account. This means thatWhale Corp is able to provide all clients with the lowest spreads and the lowest commissions in the Forex Trading industry.</p>
-                        <p>All Whale Corp clients with a RAW ECN account will experience competitive spreads, and only $3.00 commissions per standard lot, per side.</p>
-                        <p>At Whale Corp, we understand that for professional Forex traders, it’s crucial to keep FX trading costs as low as possible. This is why we’ve developed the Whale Corp RAW ECN account.</p>
+                        <p>We have linked the highest grade, prime FX liquidity in the Cotrad RAW ECN Account. This means thatWhale Corp is able to provide all clients with the lowest spreads and the lowest commissions in the Forex Trading industry.</p>
+                        <p>All Cotrad clients with a RAW ECN account will experience competitive spreads, and only $3.00 commissions per standard lot, per side.</p>
+                        <p>At Cotrad, we understand that for professional Forex traders, it’s crucial to keep FX trading costs as low as possible. This is why we’ve developed the Cotrad RAW ECN account.</p>
                         <div class="bottom_text">
                             <p>choose from</p>
                             <p><strong>300+</strong></p>
@@ -49,8 +49,8 @@
                 <div class="text_and_image_inner">
                     <div class="text_box">
                         <h3>Take advantage of flexible leverage options</h3>
-                        <p>Forex traders using the Whale Corp RAW ECN Account experience the lowest costs, fastest execution speeds and access to up to 500:1 leverage.</p>
-                        <p>The oneZero™ MT4 Bridge powers the Whale Corp RAW ECN Account.  With premium grade ECN Forex liquidity, this makes our solution the fastest, and most stable available in the Forex trading market.</p>
+                        <p>Forex traders using the Cotrad RAW ECN Account experience the lowest costs, fastest execution speeds and access to up to 500:1 leverage.</p>
+                        <p>The oneZero™ MT4 Bridge powers the Cotrad RAW ECN Account.  With premium grade ECN Forex liquidity, this makes our solution the fastest, and most stable available in the Forex trading market.</p>
                         <p>Gain your Forex trading edge with the most advanced MT4 ECN trading account available.  Start trading on a true ECN environment today.</p>
                         <div class="bottom_text">
                             <p>start trading with</p>
@@ -180,8 +180,8 @@
                 <div class="text_and_image_inner">
                     <div class="text_box">
                         <h3>Trade with complete transparency</h3>
-                        <p>The Whale Corp RAW ECN account has been built to address one of the most important factors in successful Forex trading: Transparency.</p>
-                        <p>While trading on the Whale Corp RAW ECN account, Forex traders are able to realise profits, no matter how big they are.</p>
+                        <p>The Cotrad RAW ECN account has been built to address one of the most important factors in successful Forex trading: Transparency.</p>
+                        <p>While trading on the Cotrad RAW ECN account, Forex traders are able to realise profits, no matter how big they are.</p>
                         <div class="bottom_text">
                             <p>Award-winning</p>
                             <p><strong>24/5</strong></p>
@@ -201,11 +201,11 @@
                 <div class="text_and_image_inner">
                     <div class="text_box">
                         <h3>Access your account anywhere, anytime</h3>
-                        <p>As with all Whale Corp trading accounts, the RAW ECN account is accessible across all devices.  </p>
-                        <p>We understand the importance of Forex traders having fast and stable access to their Whale Corp RAW ECN<br />
+                        <p>As with all Cotrad trading accounts, the RAW ECN account is accessible across all devices.  </p>
+                        <p>We understand the importance of Forex traders having fast and stable access to their Cotrad RAW ECN<br />
                             trading account.
                         </p>
-                        <p>Access your Whale Corp RAW ECN account anywhere, anytime.</p>
+                        <p>Access your Cotrad RAW ECN account anywhere, anytime.</p>
                         <div class="bottom_text">
                             <p>fund YOUR account</p>
                             <p><strong>9</strong></p>
@@ -225,11 +225,11 @@
                 <div class="text_and_image_inner">
                     <div class="text_box">
                         <h3>Execute trades with unmatched precision</h3>
-                        <p>All Whale Corp RAW ECN accounts are directly connected to our custom made fibre optic network which connects all Equinix servers.</p>
+                        <p>All Cotrad RAW ECN accounts are directly connected to our custom made fibre optic network which connects all Equinix servers.</p>
                         <p>This cutting edge solution enables the fastest Forex trading execution possible and delivers our FX traders the edge they need to be consistently profitable on<br />
                             the volatile Forex market.
                         </p>
-                        <p>Professional traders make smart decisions. Equip yourself with seamless access to the interbank forex market using the Whale Corp RAW ECN account.</p>
+                        <p>Professional traders make smart decisions. Equip yourself with seamless access to the interbank forex market using the Cotrad RAW ECN account.</p>
                         <div class="bottom_text">
                             <p>up to</p>
                             <p><strong>100GB/s</strong></p>

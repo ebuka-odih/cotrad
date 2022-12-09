@@ -31,8 +31,8 @@
         <div class="inner">
             <div class="dispute_handling_v2_content">
                 <h1>Dispute Resolution</h1>
-                <p>Whale Corp is committed to providing excellent service to our clients. We view our client’s comments, suggestions and concerns of the utmost importance.</p>
-                <p>In the unlikely event that you are dissatisfied with the service provided by Whale Corp, please contact our Customer Support as soon as possible at   or via email at <a href="mailto:info@whalescorp.co"><span class="__cf_email__" data-cfemail="196a6c6969766b6d596f78776d787e7c7f61377a7674">[info@whalescorp.co]</span></a>.</p>
+                <p>Cotrad is committed to providing excellent service to our clients. We view our client’s comments, suggestions and concerns of the utmost importance.</p>
+                <p>In the unlikely event that you are dissatisfied with the service provided by Cotrad, please contact our Customer Support as soon as possible at   or via email at <a href="mailto:info@whalescorp.co"><span class="__cf_email__" data-cfemail="196a6c6969766b6d596f78776d787e7c7f61377a7674">[info@whalescorp.co]</span></a>.</p>
                 <p>If you have a trading dispute, you can contact us. In an effort to promptly resolve trade inquiries, all trading disputes must be logged as quickly as possible after the trading issue has occurred.</p>
                 <p>Once the trade has been thoroughly reviewed, you will be contacted with a full explanation of what occurred on the trade(s) that were reported for investigation.</p>
                 <p>To help us investigate and resolve your complaint as quickly as possible and with minimum inconvenience to you, please make sure you give us as much information as possible, including:</p>

@@ -110,7 +110,7 @@ textarea{outline-style:none;}
 .reg_link .btn_live:hover{background:#fd0202;border:1px solid #fd0202;}
 .reg_link .btn_demo{background:#2450d7;border:1px solid #2450d7;}
 .reg_link .btn_demo:hover{background:#2a5cf5;border:1px solid #2a5cf5;}
-.header_menu_wrapper{background:rgba(29,40,54,0.6);height:80px;position:absolute;width:100%;left:0px;top:100%;padding:10px 0px 0px 0px;}
+.header_menu_wrapper{background:rgb(117 7 7);height:80px;position:absolute;width:100%;left:0px;top:100%;padding:10px 0px 0px 0px;}
 .no_page_banner .header_menu_wrapper{ position:relative;}
 .header_menu_wrapper .inner{position:relative;z-index:9;}
 .header_menu_wrapper .header_menu_tabs{padding:0px;margin:0px;}

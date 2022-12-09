@@ -25,8 +25,8 @@
 <div class="page_content">
     <div class="inner">
         <div class="page_top_text">
-            <h2><strong>Whale Corp</strong> PRO ECN Account</h2>
-            <p>Access institutional grade liquidity from the world’s leading providers and trade global markets at the lowest cost. The Whale Corp PRO ECN account is designed to give professional traders, money managers and algorithmic traders unparalleled execution speed and extra-tight spreads, all with just $2.00 commission per standard FX lot, per side.</p>
+            <h2><strong>Cotrad</strong> PRO ECN Account</h2>
+            <p>Access institutional grade liquidity from the world’s leading providers and trade global markets at the lowest cost. The Cotrad PRO ECN account is designed to give professional traders, money managers and algorithmic traders unparalleled execution speed and extra-tight spreads, all with just $2.00 commission per standard FX lot, per side.</p>
             <div class="clear"></div>
         </div>
         <div class="pages_text_and_image_row text_and_image_position_right">
@@ -34,7 +34,7 @@
                 <div class="text_box">
                     <h3>Trade with the lowest ECN commission to date</h3>
                     <p>We have partnered with the world’s leading liquidity providers to offer our professional clients the tightest spreads and lowest commissions available for ECN accounts.</p>
-                    <p>All clients with a Whale Corp PRO ECN account can now experience ultra-tight spreads from 0.0 and just $2.00 commission per standard FX lot, per side.</p>
+                    <p>All clients with a Cotrad PRO ECN account can now experience ultra-tight spreads from 0.0 and just $2.00 commission per standard FX lot, per side.</p>
                     <p>We introduced our PRO ECN account for professional traders and fund managers because we believe that it’s crucial to keep trading costs as low as possible while offering exceptional speed and reliability.</p>
                     <div class="bottom_text">
                         <p>choose from</p>
@@ -54,8 +54,8 @@
         <div class="pages_text_and_image_row text_and_image_position_left">
             <div class="text_and_image_inner">
                 <div class="text_box">
-                    <h3>Gain an advantage with a Whale Corp PRO ECN Account</h3>
-                    <p>Professional traders who use the Whale Corp PRO ECN Account are able to take advantage of the lowest costs while capitalising on the fastest execution speeds, making them ideal for both automatic and manual trading as well as high volume trades.</p>
+                    <h3>Gain an advantage with a Cotrad PRO ECN Account</h3>
+                    <p>Professional traders who use the Cotrad PRO ECN Account are able to take advantage of the lowest costs while capitalising on the fastest execution speeds, making them ideal for both automatic and manual trading as well as high volume trades.</p>
                     <p>With institutional grade liquidity supplied from the world’s largest banks, our PRO ECN Account delivers unmatched speed and stability to professional forex traders.</p>
                     <p>Give your trading edge a boost with the most advanced MT4 and MT5 ECN account available and start trading with our true PRO ECN, designed by trading professionals, for trading professionals.</p>
                     <div class="bottom_text">
@@ -210,9 +210,9 @@
             <div class="text_and_image_inner">
                 <div class="text_box">
                     <h3>Execute your trades with unmatched precision and speed</h3>
-                    <p>The Whale Corp PRO ECN Account connects directly to our fibre optic network direct to our Equinix servers, world-wide.</p>
+                    <p>The Cotrad PRO ECN Account connects directly to our fibre optic network direct to our Equinix servers, world-wide.</p>
                     <p>This means that clients’ orders, whether 1 lot or 40 lots, are filled instantaneously. Our PRO ECN ranks prices to allow the real-time execution of large trades across multiple liquidity providers, so you get the best price and no requotes regardless of how large you trade.</p>
-                    <p>Professional traders require a professional product, so equip yourself with unparalleled market access through the Whale Corp PRO ECN Account.</p>
+                    <p>Professional traders require a professional product, so equip yourself with unparalleled market access through the Cotrad PRO ECN Account.</p>
                     <div class="bottom_text">
                         <p>up to</p>
                         <p><strong>100GB/s<br />

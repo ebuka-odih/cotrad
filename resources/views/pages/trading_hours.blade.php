@@ -19,7 +19,7 @@
             <div class="page_top_text">
                 <h2>trading <strong>hours</strong></h2>
                 <p>Please refer to the table below to view the open and close times of a particular market or instrument. You can also view the trading hours from your MetaTrader platform by right clicking on an instrument in the ‘Market Watch’ section, then clicking ‘Specification’. A window will open that displays the Trading Hours for the selected instrument.</p>
-                <p>Please note that Whale Corp’s server time and charts are GMT +2 or GMT +3 (during daylight savings time).</p>
+                <p>Please note that Cotrad’s server time and charts are GMT +2 or GMT +3 (during daylight savings time).</p>
                 <div class="clear"></div>
             </div>
         </div>

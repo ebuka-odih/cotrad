@@ -7,7 +7,7 @@
                 <div class="table_cellBox">
                     <div class="text_box">
                         <h2>energy</h2>
-                        <h3>Trade Energy with Whale Corp</h3>
+                        <h3>Trade Energy with Cotrad</h3>
                         <a href="{{ route('register') }}" class="red_arrow_button">open live account</a>
                     </div>
                 </div>
@@ -21,7 +21,7 @@
                 <h2><strong>Energy</strong> Trading</h2>
                 <p>Energy traders take advantage of fluctuations in the price of a certain specialised set of commodities markets such as oil, gas, gasoline and heating oil. Energy commodities are some of the most important markets in the world because they set the price for our everyday consumption of the fuel required to live what we now consider to be our normal lives.</p>
                 <p>Energy market products underpin modern society. From supplying the energy required by the power industry, all the way through to the production, manufacturing and transport industries. If you can name it, we guarantee that it takes energy to create or move around.</p>
-                <p>If you choose to open a Whale Corp trading account, you will be able to trade energy markets on MT4 or MT5 with ease. Whether you’re in your heated home trading from your desktop PC, or you’re driving in the car that is literally fuelled by the energy market that you’re trading, with Whale Corp you never have to miss an opportunity.</p>
+                <p>If you choose to open a Cotrad trading account, you will be able to trade energy markets on MT4 or MT5 with ease. Whether you’re in your heated home trading from your desktop PC, or you’re driving in the car that is literally fuelled by the energy market that you’re trading, with Cotrad you never have to miss an opportunity.</p>
                 <div class="clear"></div>
             </div>
             <div class="pages_text_and_image_row text_and_image_position_right">
@@ -29,7 +29,7 @@
                     <div class="text_box">
                         <h3>Oil Trading</h3>
                         <p>Otherwise known as ‘Black Gold&#8217;, for centuries speculators were able to assess the overall health of world economies through the price of Oil.</p>
-                        <p>Explore the Oil market and benefit from the increased transparency of trading a futures market product, through the Whale Corp MetaTrader 4 and MetaTrader 5 Platforms.</p>
+                        <p>Explore the Oil market and benefit from the increased transparency of trading a futures market product, through the Cotrad MetaTrader 4 and MetaTrader 5 Platforms.</p>
                         <p>Trade this highly technical market and take advantage of the correlation between Commodities, Forex and Indices markets yourself. Start trading Oil, today.</p>
                         <div class="bottom_text">
                             <p>trade from</p>
@@ -52,7 +52,7 @@
                         <h3>Natural Gas</h3>
                         <p>Natural Gas is a naturally occurring mixture which is primarily used as a fossil fuel. It is used as a source of energy for cooking and the generation of electricity.</p>
                         <p>Natural Gas in the United States is traded as a futures contract and each contract traded is worth $10,000+.</p>
-                        <p>Natural gas contracts have become widely popular assets for hedge and pension funds to diversify their Commodities portfolios with. Start trading Natural Gas with Whale Corp.</p>
+                        <p>Natural gas contracts have become widely popular assets for hedge and pension funds to diversify their Commodities portfolios with. Start trading Natural Gas with Cotrad.</p>
                         <div class="bottom_text">
                             <p>TRADE WITH</p>
                             <p><strong>20:1</strong></p>
@@ -74,7 +74,7 @@
                     <div class="text_box">
                         <h3>Gasoline</h3>
                         <p>Gasoline, otherwise known simply as petrol, is a transparent, petroleum derived fuel that is primarily used to power combustion engines. Consisting mostly of organic compounds, it is mixed with additives to form gasoline.</p>
-                        <p>Traded on futures markets and quoted in US Dollar per gallon, Whale Corp gives traders exposure to both Gasoline and Crude Oil via the widely popular MT4 platform. Start trading Gasoline.</p>
+                        <p>Traded on futures markets and quoted in US Dollar per gallon, Cotrad gives traders exposure to both Gasoline and Crude Oil via the widely popular MT4 platform. Start trading Gasoline.</p>
                         <div class="bottom_text">
                             <p>trade GASOLINE FROM</p>
                             <p><strong>0.1 lot</strong></p>
@@ -116,7 +116,7 @@
                 <div class="text_and_image_inner">
                     <div class="text_box">
                         <h3>Cash Oil</h3>
-                        <p>Whale Corp is now able to offer a Cash Oil contract for trading on the award-winning MT4 and MT5 platforms using our USOUSD and UKOUSD instruments.</p>
+                        <p>Cotrad is now able to offer a Cash Oil contract for trading on the award-winning MT4 and MT5 platforms using our USOUSD and UKOUSD instruments.</p>
                         <p>When compared to the futures contract, our Cash Oil contract is for traders that don’t want to incur any monthly rollover fees.  You only incur swaps charges on a daily basis.</p>
                         <p>Trade Oil the way that you want to by choosing our alternative Cash Oil market.</p>
                         <div class="bottom_text">
@@ -135,7 +135,7 @@
                     <div class="clear"></div>
                 </div>
             </div>
-            <h2 class="page_title_center"><strong>Whale Corp Energy Commodity</strong> Contract Specifications</h2>
+            <h2 class="page_title_center"><strong>Cotrad Energy Commodity</strong> Contract Specifications</h2>
             <div class="forex_tabel">
                 <table>
                     <tbody>

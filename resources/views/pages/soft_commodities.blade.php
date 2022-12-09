@@ -8,7 +8,7 @@
                     <div class="table_cellBox">
                         <div class="text_box">
                             <h2>SOFT COMMODITIES</h2>
-                            <h3>Trade Soft Commodities with Whale Corp</h3>
+                            <h3>Trade Soft Commodities with Cotrad</h3>
                             <a href="register" class="red_arrow_button">OPEN LIVE ACCOUNT</a>
                         </div>
                     </div>
@@ -19,10 +19,10 @@
             <div class="inner">
                 <div class="page_top_text">
                     <h2><strong>SOFT COMMODITIES</strong> TRADING</h2>
-                    <p>Soft commodities are an exciting new market that Whale Corp Whale now have access to through their MT4 and MT5 platforms. This commodity class is a robust market full of large buyers and sellers of the physical assets that back the futures market.</p>
+                    <p>Soft commodities are an exciting new market that Cotrad Whale now have access to through their MT4 and MT5 platforms. This commodity class is a robust market full of large buyers and sellers of the physical assets that back the futures market.</p>
                     <p>The term soft commodities generally refers to those that can be grown rather than mined. For example the precious metal gold is dug up under the ground using mining equipment, while the soft commodity of cocoa is grown on a tree.</p>
                     <p>The roots of soft commodities markets can be traced back thousands of years and continue to play a major role in the liquidity of global futures markets across the globe. They help farmers to hedge their exposure against natural disasters and gives them the ability to lock in long term profits. This keeps both production running smoothly and gives speculators a chance to get involved.</p>
-                    <p>People will continue to want and need soft commodities as the basis of food and clothing production. Take advantage of endless demand and trade soft commodities on MT4 with Whale Corp.</p>
+                    <p>People will continue to want and need soft commodities as the basis of food and clothing production. Take advantage of endless demand and trade soft commodities on MT4 with Cotrad.</p>
                     <div class="clear"></div>
                 </div>
                 <div class="pages_text_and_image_row text_and_image_position_right">
@@ -31,7 +31,7 @@
                             <h3>Cocoa</h3>
                             <p>The word cocoa comes from the Spanish word cacao. Cocao is the common name for a powder derived from the fruit seeds of the cacao tree and are famously the basis for chocolate.</p>
                             <p>In Spain, it is even famously nicknamed ‘the food of the gods’. The cacao tree is native to the Americas and originated in Central America and parts of Mexico. Today, they grow in a limited geographical zone of about 20° to the north and south of the Equator, with nearly 70% of the world crop today being grown in West Africa.</p>
-                            <p>This geographic concentration makes cocoa a volatile soft commodity to trade. Take advantage of this volatility trading cocoa on MT4 with Whale Corp.</p>
+                            <p>This geographic concentration makes cocoa a volatile soft commodity to trade. Take advantage of this volatility trading cocoa on MT4 with Cotrad.</p>
                             <div class="bottom_text">
                                 <p>TRADING</p>
                                 <p><strong>0.1 lot</strong></p>
@@ -53,7 +53,7 @@
                             <h3>Coffee</h3>
                             <p>Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. This plant is native to tropical Africa with it’s origins in Ethiopia and Sudan specifically.</p>
                             <p>Fuelled by relentless global demand, the plant was quickly exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the globe.</p>
-                            <p>Trade Coffee on the MT4 platform with Whale Corp and take advantage of this highly demanded soft commodity with trading access always at your fingertips.</p>
+                            <p>Trade Coffee on the MT4 platform with Cotrad and take advantage of this highly demanded soft commodity with trading access always at your fingertips.</p>
                             <div class="bottom_text">
                                 <p>TRADING</p>
                                 <p><strong>0.1 lot</strong></p>
@@ -76,7 +76,7 @@
                             <h3>Cotton</h3>
                             <p>Cotton is a soft, fluffy staple fibre that grows in a protective case, around the seeds of the cotton plants. It was independently domesticated in the Old and New Worlds, leading to its mainstream adoption in clothing and the soft commodities futures market that we have today.</p>
                             <p>The cotton plant is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa, and India. Current estimates for world production are about 25 million tonnes annually, accounting for 2.5% of the world&#8217;s arable land. China is the world&#8217;s largest producer of cotton, but most of this is used domestically.</p>
-                            <p>The addition of cotton markets on our MT4 platform allows Whale Corp clients to profit from this truly global soft commodity.</p>
+                            <p>The addition of cotton markets on our MT4 platform allows Cotrad clients to profit from this truly global soft commodity.</p>
                             <div class="bottom_text">
                                 <p>CONTROL</p>
                                 <p><strong>5000lbs</strong></p>
@@ -98,7 +98,7 @@
                             <h3>Orange Juice</h3>
                             <p>Orange juice is the liquid extract of the fruit of the orange tree. It is produced by squeezing oranges, and prior to 1947, the traditional form of consumption for orange juice was fresh-squeezed. This meant that the commercial orange juice industry was constantly contending with the highly perishable nature of freshly squeezed oranges and supply shocks were often both quick and severe.</p>
                             <p>The invention of the soft commodities market ‘frozen concentrated orange juice’ (FCOJ) in 1947 brought a new standard to the orange juice industry, opening the gates to an international marketplace that was not readily available before.</p>
-                            <p>Bearing in mind orange juice’s sensitivity to weather, the addition of this soft commodity to the Whale Corp MT4 platform allows clients to take advantage of often gloriously sunny trading opportunities.</p>
+                            <p>Bearing in mind orange juice’s sensitivity to weather, the addition of this soft commodity to the Cotrad MT4 platform allows clients to take advantage of often gloriously sunny trading opportunities.</p>
                             <div class="bottom_text">
                                 <p>TRADING</p>
                                 <p><strong>0.1 lot</strong></p>
@@ -121,7 +121,7 @@
                             <h3>Sugar</h3>
                             <p>Sugar is the generic name for sweet, soluble carbohydrates, many of which are used in food but also in the creation of biofuels. As a result, sugar as a commodity sees widespread use that means it is one of the most heavily traded soft commodities in the world.</p>
                             <p>Sugars are found in the tissues of sugarcane which is cultivated in tropical and subtropical regions around the world roughly between the Tropics of Cancer and Capricorn. Sugarcane sees best results when grown in hot, wet climates where there is heavy rainfall which opens the market up to supply being devastate by tropical cyclones.</p>
-                            <p>With the increasing adoption of biofuels around the world, clients of Whale Corp are poised to take advantage of this increased demand via the MT4 and MT5 platforms.</p>
+                            <p>With the increasing adoption of biofuels around the world, clients of Cotrad are poised to take advantage of this increased demand via the MT4 and MT5 platforms.</p>
                             <div class="bottom_text">
                                 <p>CONTROL</p>
                                 <p><strong>11,200lbs</strong></p>
