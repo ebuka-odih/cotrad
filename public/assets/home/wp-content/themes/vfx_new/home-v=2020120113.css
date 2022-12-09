@@ -176,7 +176,7 @@
 .white_back{background-color: #ffffff;}
 .gray_back{background-color: #f7f7f7;}
 .red_back{background: #e91d2c;}
-.blue_back{background-color: ##750707;}
+.blue_back{background-color: #750707;}
 .home_row5 .tab_item table{width: 100%;}
 .home_row5 .tab_item table tr td:first-child{width: 12%;text-align: center;}
 .home_row5 .tab_item table .row5_tbody_top td{font-weight: bold;font-size: 16px;padding: 22px 5px;}
@@ -184,7 +184,7 @@
 .home_row5 .tab_item table .row5_tbody_buttom td{width: 100% !important;text-align: right !important;padding: 0;}
 .home_row5 .tab_item table tr td.bid_text,.home_row5 .tab_item table tr td.ask_text{font-size: 15px;position: relative;}
 .home_row5 .tab_item table tr td.bid_text span,.home_row5 .tab_item table tr td.ask_text span{ font-size: 12px; position: absolute; top: 16px; transform: scale(0.8); -webkit-transform: scale(0.8); -moz-transform: scale(0.8); -ms-transform: scale(0.8); -o-transform: scale(0.8); }
-.home_row5 .tab_item table tr td.spr_text span{background:##750707;display:inline-block;color: #fff;font-size: 17px;font-weight: bold;padding: 5px 10px;border-radius: 4px;}
+.home_row5 .tab_item table tr td.spr_text span{background:#750707;display:inline-block;color: #fff;font-size: 17px;font-weight: bold;padding: 5px 10px;border-radius: 4px;}
 .home_row5 .tab_item table tr td.spr_text span.red{background:#e91d2c;}
 .home_row5 .home_row5_top .tab_list{min-height:317px;background-color:#fff;position:relative;}
 .home_row5 .home_row5_top .tab_item{display:none;}

@@ -126,7 +126,7 @@
         }
     </script>
 
-    <link rel='stylesheet' id='wp-block-library-css'  href="{{ asset('assets/home/wp-includes/css/dist/block-library/style.min-ver%3d5.5.3.css') }}" type='text/css' media='all' />
+{{--    <link rel='stylesheet' id='wp-block-library-css'  href="{{ asset('assets/home/wp-includes/css/dist/block-library/style.min-ver%3d5.5.3.css') }}" type='text/css' media='all' />--}}
     <link rel='stylesheet' id='wp-pagenavi-css'  href="{{ asset('assets/home/wp-content/plugins/wp-pagenavi/pagenavi-css-ver%3d2.70.css') }}" type='text/css' media='all' />
     <link rel='stylesheet' id='addtoany-css'  href="{{ asset('assets/home/wp-content/plugins/add-to-any/addtoany.min-ver%3d1.15.css') }}" type='text/css' media='all' />
     <script type='text/javascript' src="{{ asset('assets/home/wp-includes/js/jquery/jquery-ver%3d1.12.4-wp.js') }}" id='jquery-core-js'></script>
@@ -215,9 +215,8 @@
         <div class="header_menu_wrapper">
             <div class="inner">
                 <a class="header_logo" href="{{ route('index') }}">
-{{--                    <h4 style="font-weight: bolder; color: white; margin-top: 10px">Cotrad</h4>--}}
-                    <img src="{{ asset('img/logo.png') }}" alt="" />
-{{--                    <img height="100" width="100" src="{{ asset('img/logo.PNG') }}" alt="" />--}}
+                    <h4 style="font-weight: bolder; color: white; margin-top: 10px">Cotrad</h4>
+{{--                    <img src="{{ asset('img/logo.png') }}" alt="" />--}}
                 </a>
                 <div class="header_menu_container">
                     <ul class="header_menu_tabs">
@@ -478,8 +477,8 @@
                 <a href="contact">CONTACT US</a>
             </div>
             <a class="fixed_header_logo" href="{{ route('index') }}">
-{{--                <h4 style="font-weight: bolder; color: white; margin-top: 10px">Cotrad</h4>--}}
-                <img src="{{ asset('img/logo.PNG') }}" alt="" />
+                <h4 style="font-weight: bolder; color: white; margin-top: 10px">Cotrad</h4>
+{{--                <img src="{{ asset('img/logo.PNG') }}" alt="" />--}}
             </a>
             <div class="reg_link">
                 <a class="btn_live" href="register" >Live Account</a>
@@ -540,9 +539,9 @@
             <div class="footer_top">
                 <div class="footer_top_left">
                     <a class="footer_logo" href="{{ route('index') }}">
-{{--                        <h4 style="font-weight: bolder; color: white; margin-top: 10px">Cotrad</h4>--}}
+                        <h4 style="font-weight: bolder; color: white; margin-top: 10px">Cotrad</h4>
 
-                    <img src="{{ asset('img/logo.PNG') }}" alt="" />
+{{--                    <img src="{{ asset('img/logo.PNG') }}" alt="" />--}}
                     </a>
                     <div class="content">
                         <ul>
