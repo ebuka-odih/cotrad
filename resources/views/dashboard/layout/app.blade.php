@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="https://crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/images/favicon.ico">
 
-    <title>Dashboard | Whales Corp</title>
+    <title>Dashboard | Cotrad</title>
 {{--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />--}}
 {{--    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js" integrity="sha512-Tn2m0TIpgVyTzzvmxLNuqbSJH3JP8jm+Cy3hvHrW7ndTDcJ1w5mBiksqDBb8GpE2ksktFvDB/ykZ0mDpsZj20w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>--}}
 
@@ -35,7 +35,7 @@
             <a href="{{ route('index') }}" class="logo">
                 <!-- logo-->
                 <div class="logo-lg">
-                    <h3 class="mt-3" style="font-weight: bolder; color: #1288c9 !important">Whales Corp</h3>
+                    <h3 class="mt-3" style="font-weight: bolder; color: #1288c9 !important">Cotrade</h3>
 
                 </div>
             </a>
@@ -227,7 +227,7 @@
         <div class="pull-right d-none d-sm-inline-block">
 
         </div>
-        &copy; 2020 <a href="https://www.Whales Corp.co/">Whales Corp</a>. All Rights Reserved.
+        &copy; 2020 <a href="https://www.Cotrad.co/">Cotrad</a>. All Rights Reserved.
     </footer>
 
 
@@ -245,8 +245,7 @@
 <script src="{{ asset('js/template.js') }}"></script>
 <script src="{{ asset('js/pages/dashboard10.js') }}"></script>
 <script src="{{ asset('js/demo.js') }}"></script>
-<script src="//code.tidio.co/a6ctwkykhhr6qctwa83f6rowtjz4ue38.js" async></script>
-{{--<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="b8ebdac5-f32d-49fd-be44-618688cfd7c2";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>--}}
+<script src="//code.tidio.co/uqjm1wuluobgfvrg3uvfqcvjuon9yyko.js" async></script>{{--<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="b8ebdac5-f32d-49fd-be44-618688cfd7c2";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>--}}
 </body>
 
 <!-- Mirrored from crypto-tokenizer-admin-dashboard.multipurposethemes.com/bs4/main-dark/index10.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Jul 2022 20:51:19 GMT -->
